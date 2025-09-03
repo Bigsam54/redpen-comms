@@ -113,7 +113,10 @@ document.addEventListener('DOMContentLoaded', function() {
         const heroImages = [
             'assets/hero-image.jpg',
             'assets/hero-image-2.jpg',
-            'assets/hero-image-3.jpg'
+            'assets/hero-image-3.jpg',
+            'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
+            'https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop',
+            'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop'
         ];
         
         let currentImageIndex = 0;
